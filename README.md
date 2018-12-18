@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to the Church of Grimace
+This will be the _official_ site for the Church of Grimace.
+
+### Site Links
+[Link](wallpapers/wallpaperIndex.md)
 
 ```markdown
 Syntax highlighted code block
