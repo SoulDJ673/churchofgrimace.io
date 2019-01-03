@@ -2,7 +2,7 @@
 This will be the _official_ site for the Church of Grimace.
 
 ### Site Links
-[Link](wallpapers/wallpaperIndex.md)
+[Link](wallpapers.md)
 
 ```markdown
 Syntax highlighted code block
